@@ -9,4 +9,4 @@
 - 🕸️ **Веб:** [tasker](https://github.com/Masynchin/tasker)
 - 🐍 **Пакеты для Python:** [textode](https://github.com/Masynchin/textode), [assistypes](https://github.com/Masynchin/assistypes), [investpy](https://github.com/Masynchin/investpy) (asyncio)
 
-А ещё помогал в [persistence](https://bullbesh/persistence) и [syb](https://fuetser/flask_project)
+А ещё помогал в [persistence](https://github.com/bullbesh/persistence) и [syb](https://github.com/fuetser/flask_project)

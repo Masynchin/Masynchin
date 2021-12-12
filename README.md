@@ -2,7 +2,7 @@
 
 Я - небольшой погромист из Череповца.
 
-Знаю Python, изучаю Go, доводилось иметь дело с JS.
+В основном пишу на Python, пробую TypeScript, Elixir, Go.
 
 Небольшой список моих проектов:
 - ✈️ **Телеграм-боты:** [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot), [filogram](https://github.com/Masynchin/filogram), [financebot](https://github.com/Masynchin/financebot)

@@ -1,15 +1,15 @@
 # ¡Yahoo! :partying_face:
 
-Я - небольшой погромист из Череповца.
+I am a little pogrommer from Cherepovets.
 
-В основном пишу на Python, пробую TypeScript, Elixir, Go.
+I mostly write in Python, but also interested in TypeScript, Elixir, and Go.
 
-Небольшой список моих проектов:
-- ✈️ **Телеграм-боты:** [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot), [filogram](https://github.com/Masynchin/filogram), [financebot](https://github.com/Masynchin/financebot)
-- 🕸️ **Веб:** [tasker](https://github.com/Masynchin/tasker), [zif](https://github.com/Masynchin/zif)
-- 🐍 **Пакеты для Python:** [textode](https://github.com/Masynchin/textode), [assistypes](https://github.com/Masynchin/assistypes), [investpy](https://github.com/Masynchin/investpy) (asyncio)
-- 💾 **Консольные игры:** [minesweeper](https://github.com/Masynchin/minesweeper), [battleship](https://github.com/Masynchin/battleship)
+Here is the list of some of my projects:
+- ✈️ **Telegram Bots:** [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot), [filogram](https://github.com/Masynchin/filogram), [financebot](https://github.com/Masynchin/financebot)
+- 🕸️ **Web Apps:** [tasker](https://github.com/Masynchin/tasker), [zif](https://github.com/Masynchin/zif)
+- 🐍 **Python Packages:** [textode](https://github.com/Masynchin/textode), [assistypes](https://github.com/Masynchin/assistypes), [investpy](https://github.com/Masynchin/investpy) (asyncio)
+- 💾 **Console Games:** [minesweeper](https://github.com/Masynchin/minesweeper), [battleship](https://github.com/Masynchin/battleship)
 
-Помогал в [persistence](https://github.com/bullbesh/persistence) и [syb](https://github.com/fuetser/flask_project)
+I also contributed to my friends projects such as [persistence](https://github.com/bullbesh/persistence) and [syb](https://github.com/fuetser/flask_project).
 
-Полную историю моих проектов можно почитать [тут](https://github.com/Masynchin/history)
+You can read history of all my repositories [here](https://github.com/Masynchin/history) (in Russian).

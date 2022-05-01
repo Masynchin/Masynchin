@@ -2,7 +2,7 @@
 
 I am a little pogrommer from Cherepovets.
 
-I mostly write in Python, but also interested in PureScript and Elixir.
+I mostly write in Python, but also interested in PureScript and Go.
 
 Here is the list of some of my projects:
 - ✈️ **Telegram Bots:** [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot), [filogram](https://github.com/Masynchin/filogram), [financebot](https://github.com/Masynchin/financebot)

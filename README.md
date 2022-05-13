@@ -8,11 +8,11 @@ Here is the list of some of my projects:
 
 - :partly_sunny: [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot) -
   Telegram-bot about weather in my hometown.
-- :clipboard: [ndnt](https://github.com/Masynchin/ndnt) -
+- :clipboard: [Ndnt](https://github.com/Masynchin/ndnt) -
   CLI-tool to inspect indentation of your project files.
-- :speech_balloon: [textode](https://github.com/Masynchin/textode) -
+- :speech_balloon: [Textode](https://github.com/Masynchin/textode) -
   Library which makes creating stateless-dialog systems more easy.
-- :art: [logos](https://github.com/Masynchin/logos) -
+- :art: [Logos](https://github.com/Masynchin/logos) -
   Create SVG icons interactively.
 
 You can read history of all my repositories

@@ -13,7 +13,7 @@ Here is the list of some of my projects:
 - :speech_balloon: [Textode](https://github.com/Masynchin/textode) -
   Library which makes creating stateless-dialog systems more easy.
 - :art: [Logos](https://github.com/Masynchin/logos) -
-  Create SVG icons interactively.
+  Edtior for interactively creating SVG-icons.
 
 You can read history of all my repositories
 [here](https://github.com/Masynchin/history) (in Russian).

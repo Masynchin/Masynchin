@@ -13,5 +13,10 @@ Here is the list of some of my projects:
 - :speech_balloon: [Textode](https://github.com/Masynchin/textode) -
   Library which makes creating stateless-dialog systems easy.
 
+I am currently working at:
+
+- :game_die: [Three](https://github.com/Masynchin/Three) - 3D version of Tic-Tac-Toe.
+- :memo: [Change-a-Changelog](https://github.com/Masynchin/change-a-changelog) - CLI-tool for editing a changelog.
+
 You can read history of all my repositories
 [here](https://github.com/Masynchin/history) (in Russian).

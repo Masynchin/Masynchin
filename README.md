@@ -2,7 +2,7 @@
 
 I am a little pogrommer from Cherepovets, studying at SPbU.
 
-I mostly write in Python, but also interested in PureScript, TypeScript, and Go.
+I mostly write in Python, but also interested in Scala, Rust, and PureScript.
 
 Here is the list of some of my projects:
 

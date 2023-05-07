@@ -1,6 +1,6 @@
 # ¡Yahoo! :partying_face:
 
-I am a little pogrommer from Cherepovets, studying in SPbU.
+I am a little pogrommer from Cherepovets, studying at SPbU.
 
 I mostly write in Python, but also interested in PureScript, TypeScript, and Go.
 

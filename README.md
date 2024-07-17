@@ -1,22 +1,14 @@
 # ¡Yahoo! :partying_face:
 
-I am a little pogrommer from Cherepovets, studying at SPbU.
+I am a programmer from Cherepovets, studying at SPbU, Saint Petersburg.
 
-I mostly write in Python, but also interested in Scala, Rust, and PureScript.
+**Open for hiring!**
+
+I mostly write in Python - Backend and Fullstack, but also interested in Scala and Rust.
 
 Here is the list of some of my projects:
 
 - :partly_sunny: [CheWeatherBot](https://github.com/Masynchin/CheWeatherBot) -
   Telegram-bot about weather in my hometown.
-- :clipboard: [Ndnt](https://github.com/Masynchin/ndnt) -
-  CLI-tool to inspect indentation of your files.
-- :speech_balloon: [Textode](https://github.com/Masynchin/textode) -
-  Library which makes creating stateless-dialog systems easy.
-
-I am currently working at:
-
-- :game_die: [Three](https://github.com/Masynchin/Three) - 3D version of Tic-Tac-Toe.
-- :memo: [Change-a-Changelog](https://github.com/Masynchin/change-a-changelog) - CLI-tool for editing a changelog.
-
-You can read history of all my repositories
-[here](https://github.com/Masynchin/history) (in Russian).
+- :speech_balloon: [ZIF](https://github.com/Masynchin/zif) - Forum-like social network.
+- :mortar_board: [Tasker](https://github.com/Masynchin/tasker) - Online platform to learn programming.

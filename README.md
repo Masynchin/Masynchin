@@ -2,8 +2,6 @@
 
 I am a programmer from Cherepovets, studying at SPbU, Saint Petersburg.
 
-**Open for hiring!**
-
 I mostly write in Python - Backend and Fullstack, but also interested in Scala and Rust.
 
 Here is the list of some of my projects:
